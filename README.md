@@ -3,7 +3,7 @@
 📧 [Email](rahulchaturvedi8989@gmail.com) | 🌐 [Portfolio](rahul-portfolio-three.vercel.app
 ) | 💼 [LinkedIn](https://www.linkedin.com/in/rahul-chaturvedi-061a90222/) | 🖥️ [GitHub](https://github.com/RAHULCHATURVEDI000)  
 
-![Rahul Chaturvedi Banner](https://source.unsplash.com/1500x500/?technology,programming)  
+ 
 
 ## 👨‍💻 About Me  
 🎓 B.Tech in Computer Science & Engineering (2021-2025) at Hindustan College of Science and Technology, Mathura.  
@@ -54,7 +54,7 @@
 - Implemented Stripe for secure payments  
 - Designed a fully responsive shopping experience  
 
-![E-commerce Preview](https://source.unsplash.com/500x250/?shopping,website)  
+
 🎯 **[Live Demo](https://e-commerce-platform-silk.vercel.app/)** | 📜 **[GitHub Repo](https://github.com/RAHULCHATURVEDI000/E-Commerce-platform)**  
 
 ---
@@ -65,7 +65,7 @@
 - Allows users to adjust sorting speed and algorithm selection  
 - Designed as an educational tool for better algorithm understanding  
 
-![Sorting Visualizer](https://source.unsplash.com/500x250/?coding,algorithms)  
+
 🎯 **[Live Demo](https://sorting-visualiser-rouge.vercel.app/)** | 📜 **[GitHub Repo](https://github.com/RAHULCHATURVEDI000/sorting-visualiser)**  
 
 ---
@@ -76,7 +76,6 @@
 - Integrated Rapid API for real-time music data  
 - Supports personalized playlists and playback controls  
 
-![Music Player Preview](https://source.unsplash.com/500x250/?music,app)  
 🎯 **[Live Demo](https://project-music-player-main-seven.vercel.app/)** | 📜 **[GitHub Repo](https://github.com/RAHULCHATURVEDI000/project_music_player-main)**  
 
 ---
