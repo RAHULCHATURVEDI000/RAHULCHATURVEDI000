@@ -1,6 +1,6 @@
 # 🚀 Rahul Chaturvedi  
 📍 Agra, Uttar Pradesh  
-📧 [Email](rahulchaturvedi8989@gmail.com) | 🌐 [Portfolio](rahul-portfolio-three.vercel.app
+📧 [Email](mailto:rahulchaturvedi8989@gmail.com) | 🌐 [Portfolio](https://rahul-portfolio-three.vercel.app/
 ) | 💼 [LinkedIn](https://www.linkedin.com/in/rahul-chaturvedi-061a90222/) | 🖥️ [GitHub](https://github.com/RAHULCHATURVEDI000)  
 
  
