@@ -82,7 +82,7 @@
 ---
 
 ## 🏆 Certifications  
-📜 **Mastering Data Structures and Algorithms in C++** *(https://drive.google.com/file/d/1JUrMYfslrkmAQYe0-FP31RrAJVfUEidw/view)*  
+📜 **Mastering Data Structures and Algorithms in C++** *(https://www.udemy.com/certificate/UC-9329ce88-0212-4f93-8e72-639c608bcfcb/)*  
 
 ---
 
