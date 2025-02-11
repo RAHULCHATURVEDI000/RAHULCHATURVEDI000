@@ -98,6 +98,7 @@
 </p>  
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULCHATURVEDI000&layout=compact&theme=radical)
 
 ## 🔗 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/rahul-chaturvedi-061a90222/) | 🖥️ [GitHub](https://github.com/RAHULCHATURVEDI000) | 🌐 [Portfolio](rahul-portfolio-three.vercel.app) | 📧 [Email](rahulchaturvedi8989@gmail.com)  
