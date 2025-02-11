@@ -94,7 +94,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" width="45%"/>
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULCHATURVEDI000&layout=compact&theme=radical)
 </p>  
 
 ---
