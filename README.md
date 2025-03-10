@@ -79,13 +79,17 @@
 ---
 
 ## 📊 GitHub Stats  
+ 
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULCHATURVEDI000&show_icons=true&theme=radical&cache_seconds=86400" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULCHATURVEDI000&theme=radical&cache_seconds=86400" width="45%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RAHULCHATURVEDI000&show_icons=true&theme=radical&cache_seconds=3600" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULCHATURVEDI000&theme=radical&cache_seconds=3600" width="45%"/>
 </p>  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULCHATURVEDI000&layout=compact&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAHULCHATURVEDI000&layout=compact&theme=radical&cache_seconds=3600)
+
 
 ---
 
