@@ -1,7 +1,6 @@
 # 🚀 Rahul Chaturvedi  
 📍 Agra, Uttar Pradesh  
-📧 [Email](mailto:rahulchaturvedi8989@gmail.com) | 🌐 [Portfolio](https://rahul-portfolio-three.vercel.app/
-) | 💼 [LinkedIn](https://www.linkedin.com/in/rahul-chaturvedi-061a90222/) | 🖥️ [GitHub](https://github.com/RAHULCHATURVEDI000)  
+📧 [Email](mailto:rahulchaturvedi8989@gmail.com) | 🌐 [Portfolio](https://rahul-portfolio-three.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/rahul-chaturvedi-061a90222/) | 🖥️ [GitHub](https://github.com/RAHULCHATURVEDI000)  
 
  
 
@@ -17,11 +16,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-
-
-
-
-
 
 ---
 
@@ -55,7 +49,6 @@
 - Implemented Stripe for secure payments  
 - Designed a fully responsive shopping experience  
 
-
 🎯 **[Live Demo](https://e-commerce-platform-silk.vercel.app/)** | 📜 **[GitHub Repo](https://github.com/RAHULCHATURVEDI000/E-Commerce-platform)**  
 
 ---
@@ -65,7 +58,6 @@
 - Visualizes Bubble, Selection, Merge, and Quick Sort algorithms  
 - Allows users to adjust sorting speed and algorithm selection  
 - Designed as an educational tool for better algorithm understanding  
-
 
 🎯 **[Live Demo](https://sorting-visualiser-rouge.vercel.app/)** | 📜 **[GitHub Repo](https://github.com/RAHULCHATURVEDI000/sorting-visualiser)**  
 
@@ -89,16 +81,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULCHATURVEDI000&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULCHATURVEDI000&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAHULCHATURVEDI000&show_icons=true&theme=radical&cache_seconds=86400" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULCHATURVEDI000&theme=radical&cache_seconds=86400" width="45%"/>
 </p>  
 
-
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULCHATURVEDI000&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULCHATURVEDI000&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
-
 ## 🔗 Connect With Me  
-💼 [LinkedIn](https://www.linkedin.com/in/rahul-chaturvedi-061a90222/) | 🖥️ [GitHub](https://github.com/RAHULCHATURVEDI000) | 🌐 [Portfolio](rahul-portfolio-three.vercel.app) | 📧 [Email](rahulchaturvedi8989@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/rahul-chaturvedi-061a90222/) | 🖥️ [GitHub](https://github.com/RAHULCHATURVEDI000) | 🌐 [Portfolio](rahul-portfolio-three.vercel.app) | 📧 [Email](rahulchaturvedi8989@gmail.com)
